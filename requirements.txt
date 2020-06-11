@@ -1,0 +1,32 @@
+# Jupyter
+jupyter
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+jupyterthemes
+
+# Data Science
+numpy
+pandas
+scipy
+matplotlib
+
+# Utilities
+setuptools
+click
+black
+pyflakes
+pyyaml
+autopep8
+rpy2
+sphinx
+
+# Testing 
+pytest
+hypothesis
+tox
+
+# Bioinformatics
+biopython
+
+# Networking
+requests
